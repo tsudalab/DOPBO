@@ -24,10 +24,10 @@ The target dataset is prepared as data.csv.
 The example is as follows.
 
 |  objective  |  amount1  |  amount2 |  amount3 |
-| ------ | ------------ | ------------ |
-|  5  |  1  | 0  | 0  |
-|  2  |  0  | 1  | 0  |
-|  4  |  0  | 0  | 1  |
+| ----------- | --------- | -------- | ---------|
+|  5          |  1        | 0        | 0        |
+|  2          |  0        | 1        | 0        |
+|  4          |  0        | 0        | 1        |
 
 The final row indicates the present objective function value and amounts of liquid samples.
 
